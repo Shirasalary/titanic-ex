@@ -1,0 +1,50 @@
+Survival percentages in the Class: 
+<<<<<<< HEAD
+First class: 62.96296296296296 % 
+Second class: 47.28260869565217% 
+Third class: 24.236252545824847% 
+Survival percentages by Gender: 
+ Male: 18.890814558058924 % 
+Female: 74.20382165605095 % 
+Survival rates by age: 
+ Between 0 T0 10: 59.375 % 
+ Between 11 T0 20: 38.26086956521739 % 
+ Between 21 T0 30: 36.681222707423586 % 
+ Between 31 T0 40: 45.09803921568628 % 
+ Between 41 T0 50: 39.285714285714285 % 
+ Over 50 : 34.375 %
+Survival percentages of those who have a family: 50.56497175141242 % 
+Survival percentages of those who not have a family: 30.353817504655495 % 
+Survival percentages by Ticket Cost: 
+ Between 0 To 10: 19.940476190476193% 
+Between 11 To 30: 44.36860068259386% 
+Over 30: 58.22222222222222% 
+Survival rate on decks: 
+ S Deck: 33.69565217391305 % 
+C Deck: 55.35714285714286% 
+Q Deck: 38.961038961038966% 
+=======
+First class: 0.0 % 
+Second class: 0.0% 
+Third class: 0.0% 
+Survival percentages by Gender: 
+ Male: 0.0 % 
+Female: 0.0 % 
+Survival rates by age: 
+ Between 0 T0 10: 146.15384615384613 % 
+ Between 11 T0 20: 61.97183098591549 % 
+ Between 21 T0 30: 57.931034482758626 % 
+ Between 31 T0 40: 82.14285714285714 % 
+ Between 41 T0 50: 64.70588235294117 % 
+ Over 50 : 52.38095238095239 %
+Survival percentages of those who have a family: 102.28571428571429 % 
+Survival percentages of those who not have a family: 22.765363128491618 % 
+Survival percentages by Ticket Cost: 
+ Between 0 To 10: 0.0% 
+Between 11 To 30: 0.0% 
+Over 30: 0.0% 
+Survival rate on decks: 
+ S Deck: 0.0 % 
+C Deck: 0.0% 
+Q Deck: 0.0% 
+>>>>>>> github/master
